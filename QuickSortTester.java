@@ -56,7 +56,109 @@ public static int[] pop(int[] arr){
 	System.out.println(getAvg(getSum(getVals(pop(arr1)))));
 	System.out.println("average for n=1)");
 	System.out.println(getAvg(getSum(getVals(pop(arr1)))));
+
+	int[] arr10=new int[10];
+	System.out.println("average for n=10)");	
+	System.out.println(getAvg(getSum(getVals(pop(arr10)))));
+	System.out.println("average for n=10)");	
+	System.out.println(getAvg(getSum(getVals(pop(arr10)))));
+	System.out.println("average for n=10)");	
+	System.out.println(getAvg(getSum(getVals(pop(arr10)))));
+	System.out.println("average for n=10)");	
+	System.out.println(getAvg(getSum(getVals(pop(arr10)))));
+	System.out.println("average for n=10)");	
+	System.out.println(getAvg(getSum(getVals(pop(arr10)))));
+	System.out.println("average for n=10)");	
+	System.out.println(getAvg(getSum(getVals(pop(arr10)))));
+	System.out.println("average for n=10)");	
+	System.out.println(getAvg(getSum(getVals(pop(arr10)))));
+
+
+	int[] arr100=new int[100];
+	System.out.println("average for n=100)");
+	System.out.println(getAvg(getSum(getVals(pop(arr100)))));
+	System.out.println("average for n=100)");
+	System.out.println(getAvg(getSum(getVals(pop(arr100)))));
+	System.out.println("average for n=100)");
+	System.out.println(getAvg(getSum(getVals(pop(arr100)))));
+	System.out.println("average for n=100)");
+	System.out.println(getAvg(getSum(getVals(pop(arr100)))));
+	System.out.println("average for n=100)");
+	System.out.println(getAvg(getSum(getVals(pop(arr100)))));
+
+
+
+	int[] arr1000=new int[1000];
+	System.out.println("average for n=1,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr1000)))));
+
+	System.out.println("average for n=1,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr1000)))));
+
+	System.out.println("average for n=1,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr1000)))));
+
+	System.out.println("average for n=1,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr1000)))));
+
+	System.out.println("average for n=1,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr1000)))));
+
+	System.out.println("average for n=1,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr1000)))));
+	
+	System.out.println("average for n=1,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr1000)))));
+	
+	int[] arr10000=new int[10000];
+	System.out.println("average for n=10,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr10000)))));
+
+	
+	System.out.println("average for n=10,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr10000)))));
+	
+	System.out.println("average for n=10,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr10000)))));
+	
+	System.out.println("average for n=10,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr10000)))));
+	
+	System.out.println("average for n=10,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr10000)))));
+	
+	int[] arr100000=new int[100000];
+	System.out.println("average for n=100,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr100000)))));
+	
+	System.out.println("average for n=100,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr100000)))));
+	
+	System.out.println("average for n=100,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr100000)))));
+	
+	System.out.println("average for n=100,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr100000)))));
+	
+	System.out.println("average for n=100,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr100000)))));
+	/*
+	int[] arr1000000=new int[1000000];
+	System.out.println("average for n=1,000,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr1000000)))));
         
+	System.out.println("average for n=1,000,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr1000000)))));
+        
+	System.out.println("average for n=1,000,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr1000000)))));
+        
+	System.out.println("average for n=1,000,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr1000000)))));
+        
+	System.out.println("average for n=1,000,000)");
+	System.out.println(getAvg(getSum(getVals(pop(arr1000000)))));
+        */
 
     }
 }
