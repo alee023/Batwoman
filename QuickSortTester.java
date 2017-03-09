@@ -5,5 +5,11 @@
 
 public class QuickSortTester{
 
-    
+    public static long time(){
+	long time = System.nanoTime();
+	time = System.nanoTime() - time;
+	return time;
+    }
+    public static void main(String[] args){
+    }
 }
