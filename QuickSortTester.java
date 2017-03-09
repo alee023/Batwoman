@@ -45,5 +45,18 @@ public static int[] pop(int[] arr){
 	return time;
     }
     public static void main(String[] args){
+	int[] arr1=new int[1];
+	System.out.println("average for n=1)");
+	System.out.println(getAvg(getSum(getVals(pop(arr1)))));
+	System.out.println("average for n=1)");
+	System.out.println(getAvg(getSum(getVals(pop(arr1)))));
+	System.out.println("average for n=1)");
+	System.out.println(getAvg(getSum(getVals(pop(arr1)))));
+	System.out.println("average for n=1)");
+	System.out.println(getAvg(getSum(getVals(pop(arr1)))));
+	System.out.println("average for n=1)");
+	System.out.println(getAvg(getSum(getVals(pop(arr1)))));
+        
+
     }
 }
