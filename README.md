@@ -3,13 +3,13 @@ Bayan Berri, Alison Lee, Truc Dao
 
 ## BIG OH HYPOTHESIS: 
 ### Best Case: 
-<p> 
+<p> In the best case, the runtime would be O( nlogn ). The array would be split fairly evenly in half every time the recursive function is called, and the function will be called logn times to reach array.length arrays of size 1. It will require O(n) time to process since the timing depends on the number of elements in the array. Therefore, the best case would be O( nlogn ).
 </p>
 ### Average Case: 
-<p> The average runtime would be nlogn.
+<p> The average runtime would be O( nlogn ).
 </p>
 ### Worst Case: 
-<p> In a worse case scenario, the runtime would be O( n^2 ). It happens when the pivot happens to be the leftmost or rightmost element in the array. In each recursive step of the partition method, the size of the sub-array decreases by 1. The partition method has to be run n times, and the partition itself is of n runtime. 
+<p> In a worse case scenario, the runtime would be O( n^2 ). It happens when the pivot happens to be the leftmost (smallest) or rightmost (largest) element in the array. In each recursive step of the partition method, the size of the sub-array decreases by 1. The partition method has to be run n times, and the partition itself is of n runtime. 
 </p>
 	
 ## METHODOLOGY: 
