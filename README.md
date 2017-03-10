@@ -8,9 +8,8 @@ Bayan Berri, Alison Lee, Truc Dao
 ### Average Case: 
 <p> The average runtime would be nlogn.
 </p>
-### Worse Case: 
-<p> In a worse case scenario, the runtime would be O( n^2 ). It happens when the pivot happens to be the leftmost or rightmost element in the array. In each recursive step of the partition method, the size of the sub-array decreases by 1.
-The arithmetic sequence representing the time is: (n) + (n-1) + (n-2) + (n-3) + ... + 1
+### Worst Case: 
+<p> In a worse case scenario, the runtime would be O( n^2 ). It happens when the pivot happens to be the leftmost or rightmost element in the array. In each recursive step of the partition method, the size of the sub-array decreases by 1. The partition method has to be run n times, and the partition itself is of n runtime. 
 </p>
 	
 ## METHODOLOGY: 
