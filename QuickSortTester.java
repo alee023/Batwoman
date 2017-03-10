@@ -45,6 +45,7 @@ public static int[] pop(int[] arr){
 	return time;
     }
     public static void main(String[] args){
+	/*
 	int[] arr1=new int[1];
 	System.out.println("average for n=1)");
 	System.out.println(getAvg(getSum(getVals(pop(arr1)))));
@@ -56,7 +57,7 @@ public static int[] pop(int[] arr){
 	System.out.println(getAvg(getSum(getVals(pop(arr1)))));
 	System.out.println("average for n=1)");
 	System.out.println(getAvg(getSum(getVals(pop(arr1)))));
-
+	
 	int[] arr10=new int[10];
 	System.out.println("average for n=10)");	
 	System.out.println(getAvg(getSum(getVals(pop(arr10)))));
@@ -109,7 +110,7 @@ public static int[] pop(int[] arr){
 	
 	System.out.println("average for n=1,000)");
 	System.out.println(getAvg(getSum(getVals(pop(arr1000)))));
-	
+	*/
 	int[] arr10000=new int[10000];
 	System.out.println("average for n=10,000)");
 	System.out.println(getAvg(getSum(getVals(pop(arr10000)))));
@@ -142,6 +143,7 @@ public static int[] pop(int[] arr){
 	
 	System.out.println("average for n=100,000)");
 	System.out.println(getAvg(getSum(getVals(pop(arr100000)))));
+
 	/*
 	int[] arr1000000=new int[1000000];
 	System.out.println("average for n=1,000,000)");
