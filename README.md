@@ -6,7 +6,7 @@ Bayan Berri, Alison Lee, Truc Dao
 <p> 
 </p>
 <h3> Average Case: </h3>
-<p> 
+<p> The average runtime would be nlogn.
 </p>
 <h3> Worse Case: </h3>
 <p> 
