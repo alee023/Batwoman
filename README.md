@@ -13,10 +13,18 @@ Bayan Berri, Alison Lee, Truc Dao
 </p>
 	
 <h2> METHODOLOGY: </h2>
-<p>
+<p> 
 </p>
 
 <h2> TIME: </h2>
-<h3> Measurements: </h3>
+<h3> Measurements (in nanoseconds): </h3>
+<ul>
+<li> Size 1: 152.75 ns </li>
+<li> Size 10: 1692.77 ns </li>
+<li> Size 100: 14529.31 ns </li>
+<li> Size 1000: 181790.26 ns </li>
+<li> Size 10000: 3408381.90 ns </li>
+<li> Size 100000: 26873799.17 ns </li>
+</ul>
 <h3> Analysis: </h3>
 <h3> Effects of pivot selection and data arrangement on execution time </h3>
