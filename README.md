@@ -28,3 +28,5 @@ Bayan Berri, Alison Lee, Truc Dao
 </ul>
 <h3> Analysis: </h3>
 <h3> Effects of pivot selection and data arrangement on execution time </h3>
+<p> Execution time takes longer if the selected pivot's value is the least or greatest element in the array. The best case would be if the pivot was the center value (median). 
+</p>
