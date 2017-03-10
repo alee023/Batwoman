@@ -28,8 +28,7 @@ Similar to the merge sort lab, the reason we had such a large batch size is beca
 <li> Size 10000: 3408381.90 ns </li>
 <li> Size 100000: 26873799.17 ns </li>
 </ul>
-[Here's the link to our graph](https://docs.google.com/spreadsheets/d/13wZUcwG4aK7ntx7dYntibAHIJjl5OnhcnOA6HPk6tEw/edit?usp=sharing)
-### Analysis: 
+[Here's the link to our graph](https://docs.google.com/spreadsheets/d/13wZUcwG4aK7ntx7dYntibAHIJjl5OnhcnOA6HPk6tEw/edit?usp=sharing) 
 
 ### Effects of pivot selection and data arrangement on execution time 
 <p> Execution time takes longer if the selected pivot's value is the least or greatest element in the array. The best case would be if the pivot was the center value (median). 
