@@ -1,4 +1,4 @@
-<h1> Batwoman </h1>
+# Batwoman #
 Bayan Berri, Alison Lee, Truc Dao
 
 <h2> BIG OH HYPOTHESIS: </h2>
