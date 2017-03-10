@@ -15,6 +15,8 @@ The arithmetic sequence representing the time is: (n) + (n-1) + (n-2) + (n-3) + 
 	
 <h2> METHODOLOGY: </h2>
 <p> 
+We found the average runtimes by using a while loop that would find the time prior to sorting the array and the time afterwards and then subtract the start from the end time to get the duration. This while loop would run 1000 times and input the duration times into an array. We then averaged every number in the array to get an average runtime of 1000 runs. We also ran the method calls multiple times so that we can make sure there are no outliers and that the numbers are accurate.
+Similar to the merge sort lab, the reason we had such a large batch size is because Java has to warm up in order to have accurate results and by averaging 1000 numbers it'll make the outliers insignificant. 
 </p>
 
 <h2> TIME: </h2>
